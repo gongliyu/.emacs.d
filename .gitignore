@@ -1,0 +1,25 @@
+/machine-specific-pre.el
+/machine-specific-post.el
+/custom.el
+
+.lsp-session-*
+/session.*
+
+/elpa/
+
+/server/
+/tramp
+
+/recentf
+
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# Backup files
+*~
+
+# Undo-tree save-files
+*.~undo-tree
